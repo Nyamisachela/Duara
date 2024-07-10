@@ -1,5 +1,7 @@
 # Duara Votes: A Blockchain Voting System for Transparency and Accountability
 
+#RutoMustGo
+
 ![protest_image](https://github.com/Nyamisachela/Duara/assets/140169644/5c0fbf15-91ee-42c5-bd95-d84aa3c7c125)
 
 ## Motivation
