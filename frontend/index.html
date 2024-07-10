@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duara Voting</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="banner">
+            <img src="protest_image.jpg" alt="Protest Banner">
+            <div class="overlay">
+                <div class="text-container">
+                    <p>Why Do You Kill Children For Asking You Questions?</p>
+                    <p>#RutoMustGo</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <h1>Duara Voting System</h1>
+        <div id="profileSection">
+            <h2>Create Profile</h2>
+            <input type="text" id="name" placeholder="Name">
+            <input type="number" id="idNumber" placeholder="ID Number">
+            <input type="number" id="voterNumber" placeholder="Voter Number">
+            <button id="createProfileBtn">Create Profile</button>
+        </div>
+        <div id="loginSection">
+            <h2>Login</h2>
+            <input type="number" id="loginIdNumber" placeholder="ID Number">
+            <input type="number" id="loginVoterNumber" placeholder="Voter Number">
+            <button id="loginBtn">Login</button>
+        </div>
+        <div id="votingSection">
+            <h2>Vote for Chair</h2>
+            <button class="voteBtn" data-candidate="Mary">Vote for Mary</button>
+            <button class="voteBtn" data-candidate="Jane">Vote for Jane</button>
+            <button class="voteBtn" data-candidate="Joyce">Vote for Joyce</button>
+        </div>
+        <div id="winnerSection">
+            <h2>Winner</h2>
+            <button id="closeVotingBtn">Close Voting</button>
+            <button id="getWinnerBtn">Get Winner</button>
+            <p id="winner"></p>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
+
