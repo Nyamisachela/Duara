@@ -6,7 +6,7 @@
 
 ## Motivation
 
-Initially, this project aimed to develop a simple voting system for my women's microfinance group, "Duara." Our group needed a transparent and reliable method to manage votes for various decisions. However, as I worked on the project over the weeks, I was inspired by the recent GenZ/Millennial protests in Kenya. The call for transparency and accountability in governance made me realize the broader potential of my project.
+Initially, this project aimed to develop a simple voting system for my women's microfinance group. Our group needed a transparent and reliable method to manage votes for various decisions. However, as I worked on the project over the weeks, I was inspired by the recent GenZ/Millennial protests in Kenya. The call for transparency and accountability in governance made me realize the broader potential of my project.
 
 I decided to pivot the project to focus on creating a transparent voting system for Kenyan elections. The goal is to foster transparency, ensure accountability, and promote trust in the electoral process. This system could serve as a tool to empower citizens and enhance democratic practices.
 
