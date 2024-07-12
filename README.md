@@ -75,6 +75,17 @@ This project is open-source, and I welcome contributions from the community. Whe
 4. **Make Changes**: Implement your changes and test thoroughly.
 5. **Submit a Pull Request**: Push your changes to your fork and submit a pull request to the main repository.
 
+#### Call For Help
+
+I am looking for help from:
+
+Backend Developers
+Frontend Developers
+Graphic Designers
+Researchers
+Policy Makers
+Anyone with skills or ideas that can contribute to this project
+
 ### Contact
 
 For any questions or suggestions, feel free to reach out to me at nyamisachelagat@gmail.com. Let's work together to create a transparent and trustworthy voting system for a better future.
